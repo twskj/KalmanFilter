@@ -22,7 +22,7 @@ vector<VectorXd> measurements;
 void filter(VectorXd &x, MatrixXd &P);
 
 
-int main() {
+int main2() {
 	/**
 	* Code used as example to work with Eigen matrices
 	*/
